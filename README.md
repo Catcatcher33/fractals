@@ -9,4 +9,4 @@ Natural fractals are used to describe many spatially nonuniform phenomena in nat
 Abstract fractals are visual representations of the behaviour of numbers when put through recursive functions.
 
 This repository contains notes on the following fractals:
-- ![The Mandelbrot Fractal](mandelbrot.ipynb)
+- [The Mandelbrot Fractal](mandelbrot.ipynb)
