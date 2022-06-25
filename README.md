@@ -1,4 +1,4 @@
-# fractals
+# Fractals
 
  Fractals are a class of infinitely complex geometrical patterns which are self-similar across multiple different scales and exist within a "fractal dimension". Their *self-similarity* allows similar patterns to appear at different levels. This can be observed in successive magnifications of the Mandelbrot set below.
 
